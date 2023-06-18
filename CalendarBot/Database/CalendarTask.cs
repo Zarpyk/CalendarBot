@@ -12,7 +12,6 @@ namespace CalendarBot.Database {
     }
 
     public enum Course {
-        Introduccion_a_base_de_datos = 1, Estructura_de_datos = 2, Calculo = 3,
-        Psicologia = 4
+        Subject = 1, Subject2 = 2, Subject3 = 3, Subject4 = 4
     }
 }
